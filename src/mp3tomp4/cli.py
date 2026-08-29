@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """Command line interface for mp3tomp4."""
 
 from __future__ import annotations
